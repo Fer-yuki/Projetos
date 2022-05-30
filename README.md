@@ -1,2 +1,0 @@
-# startdev
-códigos iniciais aprendidos
